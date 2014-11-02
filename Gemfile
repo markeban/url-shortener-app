@@ -39,4 +39,6 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'bootstrap-sass'
-
+gem 'quiet_assets'
+gem 'simple_form'
+gem 'devise'
